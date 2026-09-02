@@ -15,7 +15,7 @@ BunnyNutri is a functional Android offline-first MVP for visual food logging and
 
 This is version 0.5.1 of a pre-revenue MVP. It has no active users, no live store listing and no signed commercial APK. Public traffic, downloads and revenue are currently zero.
 
-The project is offered as a starter product for a buyer who wants to continue development, validation, branding or commercialization. See the **Releases** section for the downloadable delivery package.
+The project is offered as a starter product for a buyer who wants to continue development, validation, branding or commercialization. This public repository is a product preview only; the complete source code, build artifacts and commercial delivery package are kept private and are not distributed from this repository.
 
 ## Technology
 
@@ -27,4 +27,4 @@ Nutrition values are estimates for general tracking and are not medical advice. 
 
 ## License and third-party notices
 
-The delivery package contains the project documentation, license notices and checksums for included third-party components. Buyers should review the notices and validate licensing before commercial distribution.
+The private delivery package contains the project documentation, license notices and checksums for included third-party components. Buyers should review the notices and validate licensing before commercial distribution.
